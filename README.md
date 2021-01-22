@@ -17,7 +17,7 @@
 
 <br/>
 <br/>
-<p align="center"><h4 align="center"><samp> A Flutter Developer, A Web Designer & A Competitive Programmer </samp></h4></p>
+<p align="center"><h4 align="left"><samp> A Flutter Developer, A Web Designer & A Competitive Programmer </samp></h4></p>
 
 <img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
 
@@ -51,7 +51,8 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohits0631&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/mohits0631/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits0631&layout=compact)](https://github.com/mohits0631/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohits0631&count_private=true&show_icons=true&theme=buefy&&include_all_commits=true)](https://github.com/mohits0631/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits0631&layout=compact)](https://github.com/mohits0631/github-readme-stats)
 
 <!-- ##
 <p align="center"> 
