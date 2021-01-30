@@ -23,7 +23,6 @@
 
 - 🔭 I’m currently working on my DSA skills.
 - 👯 I’m looking to collaborate on Web and Flutter-based App development projects🤘
-- 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
 - 📫 How to reach me: mohit.s0631@gmail.com
 - 😄 Pronouns: he/his/him
