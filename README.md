@@ -38,7 +38,6 @@
 ![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ##
 <h4><b><samp>Tools and Platform</samp></b></h4>
@@ -51,7 +50,7 @@
 
 ##
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohits0631&count_private=true&show_icons=true&theme=midnight-purple&&include_all_commits=true)](https://github.com/mohits0631/github-readme-stats)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits0631&layout=compact)](https://github.com/mohits0631/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits0631&layout=compact&langs_count=6&theme=midnight-purple)](https://github.com/mohits0631/github-readme-stats)
 
 <!-- ##
 <p align="center"> 
