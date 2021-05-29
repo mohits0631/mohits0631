@@ -50,7 +50,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohits0631&count_private=true&show_icons=true&theme=buefy&&include_all_commits=true)](https://github.com/mohits0631/github-readme-stats)    
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohits0631&count_private=true&show_icons=true&theme=midnight-purple&&include_all_commits=true)](https://github.com/mohits0631/github-readme-stats)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits0631&layout=compact)](https://github.com/mohits0631/github-readme-stats)
 
 <!-- ##
